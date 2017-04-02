@@ -1,0 +1,11 @@
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\obj\Debug\MPSeries.vbprojResolveAssemblyReference.cache
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\obj\Debug\MPSeries.vbproj.GenerateResource.Cache
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\bin\Debug\MPSeries.exe
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\bin\Debug\MPSeries.pdb
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\bin\Debug\MPSeries.xml
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\obj\Debug\MPSeries.MPSeries.resources
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\obj\Debug\MPSeries.Resources.resources
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\obj\Debug\MPSeries.exe
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\obj\Debug\MPSeries.xml
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\obj\Debug\MPSeries.pdb
+D:\Rudolph\Documents\Visual Studio 2015\Projects\MPSeries\MPSeries\bin\Debug\MPSeries.exe.config
