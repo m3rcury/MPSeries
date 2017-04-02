@@ -93,6 +93,8 @@ Public Class MPSeries
 
         checkButton(sender, e)
 
+        Me.Text = Me.Text & " v" & My.Application.Info.Version.ToString
+
     End Sub
 
     Private Sub MPSeries_Closing(sender As Object, e As CancelEventArgs) Handles Me.Closing

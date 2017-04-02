@@ -33,6 +33,7 @@ Partial Class MPSeries
         Me.tb_ext_list = New System.Windows.Forms.TextBox()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.tt_tooltip = New System.Windows.Forms.ToolTip(Me.components)
+        Me.l_copyright = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'b_move
@@ -118,13 +119,25 @@ Partial Class MPSeries
         Me.tt_tooltip.IsBalloon = True
         Me.tt_tooltip.ShowAlways = True
         '
+        'l_copyright
+        '
+        Me.l_copyright.AutoSize = True
+        Me.l_copyright.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.l_copyright.ForeColor = System.Drawing.SystemColors.ActiveCaption
+        Me.l_copyright.Location = New System.Drawing.Point(2, 355)
+        Me.l_copyright.Name = "l_copyright"
+        Me.l_copyright.Size = New System.Drawing.Size(144, 13)
+        Me.l_copyright.TabIndex = 62
+        Me.l_copyright.Text = "Copyright © 2017 by m3rcury"
+        '
         'MPSeries
         '
         Me.AcceptButton = Me.b_move
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Control
-        Me.ClientSize = New System.Drawing.Size(460, 365)
+        Me.ClientSize = New System.Drawing.Size(460, 370)
+        Me.Controls.Add(Me.l_copyright)
         Me.Controls.Add(Me.tb_ext_list)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.tb_new_path)
@@ -138,7 +151,7 @@ Partial Class MPSeries
         Me.MinimizeBox = False
         Me.Name = "MPSeries"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "MPSeries"
+        Me.Text = "MPSeries Mover "
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -153,4 +166,5 @@ Partial Class MPSeries
     Friend WithEvents tb_ext_list As Windows.Forms.TextBox
     Friend WithEvents Label3 As Windows.Forms.Label
     Friend WithEvents tt_tooltip As Windows.Forms.ToolTip
+    Friend WithEvents l_copyright As Windows.Forms.Label
 End Class
